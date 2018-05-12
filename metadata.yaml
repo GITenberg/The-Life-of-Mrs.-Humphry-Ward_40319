@@ -1,0 +1,26 @@
+_repo: The-Life-of-Mrs.-Humphry-Ward_40319
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40319-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Trevelyan, Janet Penrose
+    alias: Trevelyan, Mrs. G. M.
+    birthdate: 1879
+    gutenberg_agent_id: '40551'
+    url: http://www.gutenberg.org/2009/agents/40551
+description: ''
+gutenberg_issued: '2012-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40319'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Ward, Humphry, Mrs., 1851-1920'
+title: The Life of Mrs. Humphry Ward
+url: http://www.gutenberg.org/ebooks/40319
